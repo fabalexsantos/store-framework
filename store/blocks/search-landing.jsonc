@@ -5,7 +5,7 @@
   "image#landingbanner": {
     "props": {
       "minWidth": "100%",
-      "src": ""
+      "src": "https://png.pngtree.com/png-clipart/20190116/ourmid/pngtree-camera-camera-black-camera-photo-artifact-png-image_402258.jpg"
     }
   },
   "search-result-layout.customQuery": {
